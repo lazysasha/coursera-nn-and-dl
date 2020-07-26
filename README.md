@@ -1,0 +1,2 @@
+# "Neural Networks and Deep Learning" course
+Just a collection of Jupyter notebooks of "Neural Networks and Deep Learning" course. See [course overview](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) for details
